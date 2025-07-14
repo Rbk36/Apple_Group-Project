@@ -40,3 +40,58 @@ img {
   padding: 4px 0;
   border-bottom: 1px solid #4b4b4b;
 }
+.top-100 {
+  margin-top: 100px;
+}
+/* Header Style */
+.nav-wrapper {
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 0.85em;
+  font-weight: 200;
+}
+.nav-wrapper ul li a {
+  color: #fff;
+}
+.navbar-toggler {
+  color: #fff;
+}
+.nav-item {
+  text-align: left !important;
+  padding: 4px 0;
+  border-bottom: 1px solid #4b4b4b;
+}
+.navbar-nav {
+  width: 900px;
+}
+
+/* macbook-pro section */
+.macbook-pro{
+  background-color: #f9f9f9;
+}
+.learn-buy {
+  font-size: 20px;
+}
+.learn-buy a:after {
+  font-family: "FontAwesome";
+  font-size: 20px;
+  content: "\f105";
+  color: #0066cc;
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.learn-buy a:hover {
+  color: black;
+}
+.bg-styles {
+  background-position: center;
+  background-size: cover;
+  height: 580px;
+}
+/* iphone 11 pro section */
+.iphone11-pro {
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+  background-size: cover;
+}
+/* iphone 11 section
+ */
